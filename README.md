@@ -8,10 +8,10 @@
 
 - 🎓 MCA Graduate
 - 💻 Java Backend Developer
-- 🌱 Currently learning Django, FastAPI and Generative AI
+- 🌱  Django, FastAPI , ML and Generative AI
 - 🤖 Passionate about AI & Machine Learning
 - 🔥 Building Real-world Full Stack Projects
-- 📫 Email: your_email@gmail.com
+- 📫 Email: santoshmahanta.work@gmail.com
 
 ---
 
@@ -66,8 +66,8 @@
 ## 🌐 Connect with Me
 
 - GitHub: https://github.com/santoshmahanta
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: your_email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/santosh-mahanta-94b9a6307/
+- Email: santoshmohanta200119@gmail.com
 
 ---
 
