@@ -50,7 +50,7 @@ Hi 👋, I'm Santosh Mahanta
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p >
 
 <a href="https://www.linkedin.com/in/santosh-mahanta-94b9a6307/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
