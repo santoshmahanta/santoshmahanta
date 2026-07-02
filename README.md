@@ -26,7 +26,23 @@ Java Backend Developer • Python Developer • AI & ML Enthusiast
 - 🤖 AI & Machine Learning Enthusiast
 - ☁️ Learning AWS, Docker & Kubernetes
 - 📚 Passionate about scalable backend systems and REST APIs
+## 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/santosh-mahanta-94b9a6307">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:santoshmohanta200119@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://github.com/santoshmahanta">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</p>
 ---
 
 ## 💻 Tech Stack
@@ -92,25 +108,9 @@ Java Backend Developer • Python Developer • AI & ML Enthusiast
 
 </p>
 
----
 
-## 🌐 Connect With Me
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/santosh-mahanta-94b9a6307">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:santoshmohanta200119@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-<a href="https://github.com/santoshmahanta">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-</p>
 
 ---
 
