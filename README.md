@@ -14,21 +14,23 @@ Hi 👋, I'm Santosh Mahanta
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 🎓 MCA Graduate
 
-💻 Java Backend Developer
+💻 Backend Developer specializing in Java Spring Boot, Django, and FastAPI
 
-🐍 Python & Django Developer
+🤖 Passionate about Artificial Intelligence and Machine Learning
 
-🤖 Machine Learning Enthusiast
+🏗️ Experienced in designing scalable REST APIs and Microservices
 
-🌱 Currently Learning
+☁️ Exploring AWS Cloud and Containerization
+
+📚 Always learning modern backend technologies and solving real-world problems
+
+🌱 AI & ML
 
 - Generative AI
 - FastAPI
-- System Design
+- AWS Cloud
 - Docker
 - Kubernetes
 
@@ -48,13 +50,13 @@ Hi 👋, I'm Santosh Mahanta
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/santosh-mahanta-94b9a6307/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:santoshmohanta200119@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
@@ -63,7 +65,6 @@ Hi 👋, I'm Santosh Mahanta
 </a>
 
 </p>
-
 ---
 
 # 💻 Tech Stack
@@ -105,15 +106,17 @@ Hi 👋, I'm Santosh Mahanta
 
 ---
 
-## Database
+## 🗄️ Database & Caching
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=redis"/>
 
 </p>
-
 ---
 
 ## Tools
@@ -131,34 +134,57 @@ Hi 👋, I'm Santosh Mahanta
 
 # 🚀 Featured Projects
 
-### ❤️ Heart Disease Prediction
+## 🏥 AI Powered Medicare Backend System
 
-✔ Python
+Spring Boot • Microservices • JWT • PostgreSQL • AI Integration
 
-✔ Machine Learning
+✔ Authentication Service
 
-✔ Streamlit
+✔ Appointment Service
 
-✔ Scikit-Learn
+✔ Medicine Service
 
-✔ Live Prediction
+✔ Notification Service
+
+✔ Medical Report Service
+
+✔ AI Recommendation Engine
+
+✔ API Gateway
+
+✔ Eureka Discovery
 
 ---
 
-### 🏥 Medicare AI
+## 🏛️ Integrated Eligibility System (IES)
 
-Spring Boot Microservices
+Spring Boot
 
-JWT Authentication
+Microservices
 
-React Dashboard
+JWT
 
 PostgreSQL
 
-REST APIs
+Citizen Services
 
----
+Eligibility Determination
 
+Benefit Issuance
+
+## ❤️ Heart Disease Prediction
+
+Python
+
+Machine Learning
+
+Scikit-Learn
+
+KNN
+
+Streamlit
+
+Live Prediction
 ### 💼 CareerForge
 
 Job Preparation Platform
@@ -171,17 +197,19 @@ AI Integration
 
 ---
 
-### 🐍 Django Skill Analyzer
+## 📈 Stock Calculation & Inventory API
 
-Resume Upload
+Python
 
-Skill Gap Analysis
+FastAPI
 
-Learning Roadmap
+SQLAlchemy
 
-PostgreSQL
+Docker
 
----
+OpenAPI
+
+Pydantic
 
 # 📊 GitHub Stats
 
@@ -205,15 +233,6 @@ PostgreSQL
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=santoshmahanta&theme=algolia&margin-w=15"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -231,10 +250,6 @@ PostgreSQL
 
 ---
 
-# 💬 Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
 
 ⭐ If you like my projects, don't forget to Star ⭐ the repositories.
