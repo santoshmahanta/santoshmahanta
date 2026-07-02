@@ -1,74 +1,240 @@
-<h1 align="center">Hi 👋, I'm Santosh Mahanta</h1>
+<h1 align="center">
+Hi 👋, I'm Santosh Mahanta
+</h1>
 
-<h3 align="center">Java Backend Developer | Python Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">
+🚀 Java Backend Developer | 🐍 Python Developer | 🤖 AI & ML Enthusiast
+</h3>
 
----
-
-## 🚀 About Me
-
-- 🎓 MCA Graduate
-- 💻 Java Backend Developer
-- 🌱  Django, FastAPI , ML and Generative AI
-- 🤖 Passionate about AI & Machine Learning
-- 🔥 Building Real-world Full Stack Projects
-- 📫 Email: santoshmahanta.work@gmail.com
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Microservices;Python+%7C+Django+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### Languages
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+🎓 MCA Graduate
 
-### Backend
+💻 Java Backend Developer
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+🐍 Python & Django Developer
 
-### Frontend
+🤖 Machine Learning Enthusiast
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
+🌱 Currently Learning
 
-### Database
+- Generative AI
+- FastAPI
+- System Design
+- Docker
+- Kubernetes
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+🔥 Interested In
 
-### Tools
+- Backend Development
+- AI Applications
+- REST APIs
+- Microservices
+- Cloud Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+⚡ Fun Fact
+
+> "Consistency beats Talent."
 
 ---
 
-## 🚀 Featured Projects
+# 🌐 Connect With Me
 
-❤️ Heart Disease Prediction (Python, ML, Streamlit)
+<p align="left">
 
-🏥 Medicare AI (Spring Boot Microservices)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-💼 CareerForge Job Preparation Platform
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
-🛒 Food Delivery Web Application
+<a href="https://github.com/santoshmahanta">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 💻 Tech Stack
 
-- GitHub: https://github.com/santoshmahanta
-- LinkedIn: https://www.linkedin.com/in/santosh-mahanta-94b9a6307/
-- Email: santoshmohanta200119@gmail.com
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction
+
+✔ Python
+
+✔ Machine Learning
+
+✔ Streamlit
+
+✔ Scikit-Learn
+
+✔ Live Prediction
+
+---
+
+### 🏥 Medicare AI
+
+Spring Boot Microservices
+
+JWT Authentication
+
+React Dashboard
+
+PostgreSQL
+
+REST APIs
+
+---
+
+### 💼 CareerForge
+
+Job Preparation Platform
+
+Spring Boot
+
+React
+
+AI Integration
+
+---
+
+### 🐍 Django Skill Analyzer
+
+Resume Upload
+
+Skill Gap Analysis
+
+Learning Roadmap
+
+PostgreSQL
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshmahanta&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmahanta&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=santoshmahanta&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=santoshmahanta&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshmahanta&theme=tokyo-night"/>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=santoshmahanta&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+⭐ If you like my projects, don't forget to Star ⭐ the repositories.
