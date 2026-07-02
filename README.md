@@ -138,21 +138,21 @@ Hi 👋, I'm Santosh Mahanta
 
 Spring Boot • Microservices • JWT • PostgreSQL • AI Integration
 
-✔ Authentication Service
+ Authentication Service
 
-✔ Appointment Service
+ Appointment Service
 
-✔ Medicine Service
+ Medicine Service
 
-✔ Notification Service
+ Notification Service
 
-✔ Medical Report Service
+ Medical Report Service
 
-✔ AI Recommendation Engine
+ AI Recommendation Engine
 
-✔ API Gateway
+ API Gateway
 
-✔ Eureka Discovery
+ Eureka Discovery
 
 ---
 
