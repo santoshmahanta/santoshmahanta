@@ -7,7 +7,7 @@ Hi 👋, I'm Santosh Mahanta
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Microservices;Python+%7C+Django+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7F&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Microservices;Python+%7C+Django+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
